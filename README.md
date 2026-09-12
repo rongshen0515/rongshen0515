@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 My name is Rong Shen and I am a first year Electrical Engineering student at UCSD 
-- 🔭 I have just finished setting up the new VTM system for my robotics club.
+- 🔭 I am training AI models with Python to read schematics to turn them into netlists.
 - 🔤 I can code in C, C++ and MATLAB
-- 🌱 I’m currently learning Python and CUDA
+- 🌱 I’m currently learning Python for my research team.
 - 📫 How to reach me: Instagram: @rongshen0515
 
 
