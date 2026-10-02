@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 My name is Rong Shen and I am a second year Electrical Engineering student at UCSD 
-- 🔭 I am training AI models with Python to read schematics to turn them into netlists.
+- 🔭 I am training AI models with Python to read schematics to turn them into netlists, I am also using Python to train my autonomous vehicle.
 - 🔤 I can code in C, C++ and MATLAB
-- 🌱 I’m currently learning Python for my research team.
+- 🌱 I’m currently learning Python for my research team and capstone.
 - 📫 How to reach me: Instagram: @rongshen0515
 
 
